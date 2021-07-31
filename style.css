@@ -1,0 +1,137 @@
+/*Navbar content*/
+.container{
+	margin-bottom: 50px;
+}
+
+.red-bg{
+	background-color: palegreen;
+	border-radius: 10px;
+}
+.logo{
+	height: 80px;
+	width: 80px;
+	border-radius: 10px;
+}
+.nav-top{
+	border: 3px dotted palegreen;
+	border-radius: 10px;
+
+}
+.nav-link:hover{
+	background: lightgrey;
+	border-radius: 5px;
+}
+/*carousel*/
+.top-banner{
+	background-color: mistyrose;
+	border-radius: 10px;
+}
+.carousel-item{
+	padding: 20px 40px;
+}
+.carousel-item img{
+	width: 100px;
+	height: 400px;
+}
+.know{
+	color: red;
+}
+.taste{
+	color: green;
+}
+.buy-now-button{
+	background-image: linear-gradient(to bottom, grey,green);
+	color: #fff;
+	border: none;
+	border-radius: 8px;
+	padding: 9px 25px;
+	cursor: pointer;
+}
+/*categories*/
+
+.categories{
+	margin-top: 100px;
+	margin-bottom: none;
+}
+.categories h3{
+	color:#413960;
+}
+.categories h2{
+	text-align: center;
+}
+.categories img{
+	width: 200px;
+	height: 200px;
+	
+} 
+.cat1, .cat2, .cat3, .cat4{
+	
+	padding:10px 20px;
+	border-radius: 10px;
+	background: peru;
+	width: 270px;
+	height: 270px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgrey;
+}
+
+.cat1:hover{
+	background: lightgrey;
+}
+.cat2:hover{
+	background: lightgrey;
+}
+.cat3:hover{
+	background: lightgrey;
+}
+.cat4:hover{
+	background: lightgrey;
+}
+.popular{
+	margin-top: 100px;
+}
+/*offer-time*/
+.offer h2{
+	text-align: center;
+	color: white;
+}
+.offer h3{
+	color: white;
+}
+.offer h5{
+	color: lightgrey;
+}
+.offer-part{
+	margin-top: 100px;
+}
+.offer{
+	margin-top: 100px;
+	background-image: linear-gradient(to bottom, black, #FF136F);
+	border-radius: 10px;
+}
+.food-pic{
+	width: 400px;
+	height: 300px;
+	border-radius: 5px;
+}
+.hot{
+	color: red;
+}
+/*contact*/
+#subscribe{
+	height: 300px;
+}
+#subscribe h6{
+	color: grey;
+} 
+.orange-bg{
+	background-color: indianred;
+	border-radius: 10px;
+}
+footer{
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-radius: 5px;
+}
